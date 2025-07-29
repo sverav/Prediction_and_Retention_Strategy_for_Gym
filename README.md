@@ -1,4 +1,4 @@
-#Customer Churn Prediction and Retention Strategy for Model Fitness Gym Chain
+# Customer Churn Prediction and Retention Strategy for Model Fitness Gym Chain
 
 This project involves developing a comprehensive customer churn prediction system and retention strategy for Model Fitness gym chain using machine learning and clustering techniques. The goal is to identify at-risk customers, understand behavioral patterns, and create targeted retention campaigns to reduce customer attrition.
 **Business Context**
