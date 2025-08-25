@@ -1,0 +1,22 @@
+**🎯General Objective**
+
+Develop a predictive model to identify customers with a high probability of canceling their membership in the upcoming month and create a data-driven retention strategy.
+
+🧩Methodology Used
+
+ - Exploratory Data Analysis (EDA)
+ - Predictive Modeling (Supervised Learning)
+ - Customer Segmentation (Unsupervised Learning)
+
+☘️Expected Results
+
+ - A machine learning model with acceptable performance (e.g., AUC > 0.75) capable of predicting which customers are at high risk of canceling.
+ - Identification of 3 to 5 distinct customer segments or clusters.
+ - Discovery that at least 1 or 2 clusters have a significantly higher churn rate than the average.
+ - A set of key factors (e.g., low visit frequency, expiring contract) that directly impact the decision to cancel.
+ - A list of specific recommendations and marketing actions to retain customers in each risk segment.
+
+
+**📑Obtained Results**
+
+Predictive Model to anticipate customers's decisions and design strategies to keep them
